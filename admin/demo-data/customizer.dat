@@ -1,0 +1,9 @@
+a:4:{s:8:"template";s:6:"impose";s:4:"mods";a:9:{i:0;b:0;s:18:"nav_menu_locations";a:4:{s:31:"pixelwars_theme_menu_location_1";i:30;s:30:"pixelwars__theme_menu_location";i:30;s:36:"pixelwars_impose_theme_menu_location";i:30;s:26:"impose_theme_menu_location";i:30;}s:29:"pixelwars__setting_custom_css";s:229:".category-adventure .site-content > .entry-header,  .category-adventure .site-content .layout-medium > .entry-header { display: none; }
+.chat-speaker-4 { display: none; }
+.blog .site-content > .entry-header {
+    display: none;
+}";s:35:"pixelwars_impose_setting_custom_css";s:109:".blog .site-content > .entry-header,
+.category-adventure .site-content > .entry-header {
+    display: none;
+}";s:25:"impose_setting_custom_css";s:105:".blog .site-content > .entry-header,
+.category-adventure .site-content > .entry-header { display: none; }";s:21:"impose_setting_font_2";s:4:"Lato";s:21:"impose_setting_font_3";s:7:"Poppins";s:18:"custom_css_post_id";i:-1;s:28:"impose_setting_content_width";s:3:"940";}s:7:"options";a:2:{s:9:"site_icon";s:1:"0";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:0:"";}

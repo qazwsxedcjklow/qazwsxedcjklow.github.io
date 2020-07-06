@@ -1,0 +1,525 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Impose\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-17 21:43+0000\n"
+"POT-Revision-Date: Sat Jan 16 2016 21:00:04 GMT+0200 (GTB Standart Saati)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: comments.php:20
+#, php-format
+msgid "1 Comment %2$s"
+msgid_plural "%1$s Comments %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:39
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:45
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:55
+msgid "Leave A Comment"
+msgstr ""
+
+#: functions.php:24
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:80
+msgid "Theme Navigation Menu"
+msgstr ""
+
+#: functions.php:211
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: functions.php:243
+msgid "Featured Image"
+msgstr ""
+
+#: functions.php:285
+msgid "Pingback:"
+msgstr ""
+
+#: functions.php:293
+msgid "(Edit)"
+msgstr ""
+
+#: functions.php:321
+msgid "Site Author"
+msgstr ""
+
+#: functions.php:333
+msgid "at"
+msgstr ""
+
+#: functions.php:341 layout-bold.php:111 layout-grid.php:150
+#: layout-grid.php:260 layout-irregular.php:164 layout-irregular.php:245
+#: layout-list.php:142 layout-list.php:246 layout-regular.php:93
+#: layout-waterfall.php:131 single.php:98 single.php:158
+msgid "Edit"
+msgstr ""
+
+#: functions.php:353
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:368
+msgid "Reply"
+msgstr ""
+
+#: functions.php:391
+msgid "- Flickr"
+msgstr ""
+
+#: functions.php:392
+msgid "Flickr widget."
+msgstr ""
+
+#: functions.php:405 functions.php:489
+msgid "Title:"
+msgstr ""
+
+#: functions.php:413 functions.php:509
+msgid "User:"
+msgstr ""
+
+#: functions.php:421 functions.php:517
+msgid "Number of items to show:"
+msgstr ""
+
+#: functions.php:474
+msgid "- Social Feed"
+msgstr ""
+
+#: functions.php:475
+msgid "Social feed widget."
+msgstr ""
+
+#: functions.php:497
+msgid "Network:"
+msgstr ""
+
+#: functions.php:792 functions.php:928
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:794 functions.php:803 functions.php:812 functions.php:857
+#: functions.php:866 functions.php:875 functions.php:901
+msgid "Add one or more widget."
+msgstr ""
+
+#: functions.php:801 functions.php:929
+msgid "Post Sidebar"
+msgstr ""
+
+#: functions.php:810 functions.php:927
+msgid "Page Sidebar"
+msgstr ""
+
+#: functions.php:819
+msgid "Header Social Icons"
+msgstr ""
+
+#: functions.php:821
+msgid "Use social icon shortcodes with the \"Custom HTML\" widget."
+msgstr ""
+
+#: functions.php:828
+msgid "Author Social Icons"
+msgstr ""
+
+#: functions.php:830 functions.php:839
+msgid "Use social media shortcodes with the Text widget here."
+msgstr ""
+
+#: functions.php:837
+msgid "Footer Social Icons"
+msgstr ""
+
+#: functions.php:846
+msgid "Footer Instagram"
+msgstr ""
+
+#: functions.php:848
+msgid "Use Social Feed widget here."
+msgstr ""
+
+#: functions.php:855
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:864
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:873
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:882
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: functions.php:884
+msgid "Use Text widget here."
+msgstr ""
+
+#: functions.php:926
+msgid "No Sidebar"
+msgstr ""
+
+#: functions.php:1012
+msgid "Grid"
+msgstr ""
+
+#: functions.php:1013
+msgid "Slider"
+msgstr ""
+
+#: functions.php:1076
+msgid "Default"
+msgstr ""
+
+#: functions.php:1077
+msgid "Classic"
+msgstr ""
+
+#: functions.php:1129
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:1130 functions.php:1131
+msgid "Gallery Type"
+msgstr ""
+
+#: functions.php:1132
+msgid "Featured Image Style"
+msgstr ""
+
+#: functions.php:1194 functions.php:1208 functions.php:1228 functions.php:1233
+msgid "Read More"
+msgstr ""
+
+#: functions.php:1242
+msgid "Pages:"
+msgstr ""
+
+#: functions.php:1259
+msgid "Posts in"
+msgstr ""
+
+#: functions.php:1271
+msgid "Posts tagged"
+msgstr ""
+
+#: functions.php:1283
+msgid "Posts by"
+msgstr ""
+
+#: functions.php:1295
+msgid "Searched for"
+msgstr ""
+
+#: functions.php:1307
+msgid "Date Archives"
+msgstr ""
+
+#: functions.php:1317
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: functions.php:1321
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: functions.php:1325 functions.php:1338 functions.php:1350
+msgid "Archives"
+msgstr ""
+
+#: functions.php:1382
+msgid "About The Author"
+msgstr ""
+
+#: functions.php:1424
+msgid "Share This Post"
+msgstr ""
+
+#: functions.php:1426
+msgid "I wanted you to see this post"
+msgstr ""
+
+#: functions.php:1426
+msgid "Check out this post"
+msgstr ""
+
+#: functions.php:1426
+msgid "Email this post to a friend"
+msgstr ""
+
+#: functions.php:1430
+msgid "Currently%20reading"
+msgstr ""
+
+#: functions.php:1430
+msgid "Share this post with your followers"
+msgstr ""
+
+#: functions.php:1434
+msgid "Share this post on Facebook"
+msgstr ""
+
+#: functions.php:1478
+msgid "You May Also Like"
+msgstr ""
+
+#: functions.php:1494 functions.php:1781 layout-bold.php:118
+#: layout-creative.php:162 layout-creative.php:234 layout-waterfall.php:138
+msgid "View Post"
+msgstr ""
+
+#: functions.php:1538
+msgid "Older posts"
+msgstr ""
+
+#: functions.php:1544
+msgid "Newer posts"
+msgstr ""
+
+#: functions.php:1565
+msgid "Previous Image"
+msgstr ""
+
+#: functions.php:1571
+msgid "Next Image"
+msgstr ""
+
+#: functions.php:1583
+msgid "Previous Post"
+msgstr ""
+
+#: functions.php:1589
+msgid "Next Post"
+msgstr ""
+
+#: functions.php:1608
+msgid "sorry, page not found"
+msgstr ""
+
+#: functions.php:1614
+msgid "But you can always search for what you are looking."
+msgstr ""
+
+#: functions.php:1630 functions.php:1652
+msgid "nothing found"
+msgstr ""
+
+#: functions.php:1636
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: functions.php:1658
+msgid ""
+"It seems we can not find what you are looking for. Perhaps searching can "
+"help."
+msgstr ""
+
+#: functions.php:2174
+#, php-format
+msgid ""
+"You shall not place the %1$s template tag inside the loop on "
+"list/archives/search/etc templates."
+msgstr ""
+
+#: functions.php:2445
+msgid "First"
+msgstr ""
+
+#: functions.php:2672
+msgid "Last"
+msgstr ""
+
+#: functions.php:2692
+msgid "Fonts"
+msgstr ""
+
+#: functions.php:2693
+msgid "Change theme fonts."
+msgstr ""
+
+#: functions.php:2696
+msgid "Colors"
+msgstr ""
+
+#: functions.php:2697
+msgid "Change theme colors."
+msgstr ""
+
+#: functions.php:2700
+msgid "Layout"
+msgstr ""
+
+#: functions.php:2701
+msgid "Change content width in pixels. Default: 940"
+msgstr ""
+
+#: functions.php:2704 functions.php:2803
+msgid "Custom CSS"
+msgstr ""
+
+#: functions.php:2705
+msgid "Quickly add custom css."
+msgstr ""
+
+#: functions.php:2758
+msgid "Link Color"
+msgstr ""
+
+#: functions.php:2766
+msgid "Link Hover Color"
+msgstr ""
+
+#: functions.php:2774
+msgid "Menu Background Color"
+msgstr ""
+
+#: functions.php:2782
+msgid "Primary Color"
+msgstr ""
+
+#: header.php:218
+msgid "Search Here"
+msgstr ""
+
+#: header.php:220
+msgid "type and hit enter"
+msgstr ""
+
+#: header.php:223
+msgid "Search"
+msgstr ""
+
+#: layout-bold.php:99 layout-creative.php:149 layout-creative.php:198
+#: layout-grid.php:138 layout-grid.php:248 layout-irregular.php:152
+#: layout-irregular.php:233 layout-list.php:130 layout-list.php:234
+#: layout-regular.php:81 layout-waterfall.php:119 single.php:86 single.php:146
+msgid "0 Comments"
+msgstr ""
+
+#: layout-bold.php:100 layout-creative.php:150 layout-creative.php:199
+#: layout-grid.php:139 layout-grid.php:249 layout-irregular.php:153
+#: layout-irregular.php:234 layout-list.php:131 layout-list.php:235
+#: layout-regular.php:82 layout-waterfall.php:120 single.php:87 single.php:147
+msgid "1 Comment"
+msgstr ""
+
+#: layout-bold.php:101 layout-creative.php:151 layout-creative.php:200
+#: layout-grid.php:140 layout-grid.php:250 layout-irregular.php:154
+#: layout-irregular.php:235 layout-list.php:132 layout-list.php:236
+#: layout-regular.php:83 layout-waterfall.php:121 single.php:88 single.php:148
+msgid "% Comments"
+msgstr ""
+
+#. Name of the template
+msgid "Full-width Page"
+msgstr ""
+
+#. Name of the template
+msgid "Homepage"
+msgstr ""
+
+#: page_template-home.php:54
+msgid "Latest From The Blog"
+msgstr ""
+
+#: page_template-home.php:115 page_template-home.php:133
+msgid "See All Posts"
+msgstr ""
+
+#. Name of the template
+msgid "Narrow Page"
+msgstr ""
+
+#: admin/demo-import.php:9
+msgid "Demo"
+msgstr ""
+
+#: admin/install-plugins.php:15
+msgid "Install Plugins"
+msgstr ""
+
+#: admin/install-plugins.php:23
+msgid "Impose Shortcodes"
+msgstr ""
+
+#: admin/install-plugins.php:34
+msgid "One Click Demo Import"
+msgstr ""
+
+#: admin/install-plugins.php:39
+msgid "Regenerate Thumbnails"
+msgstr ""
+
+#: admin/install-plugins.php:44
+msgid "Loco Translate"
+msgstr ""
+
+#: admin/install-plugins.php:49
+msgid "Instagram Feed Gallery"
+msgstr ""
+
+#: admin/install-plugins.php:54
+msgid "Top 10 - Popular Posts"
+msgstr ""
+
+#: admin/install-plugins.php:59
+msgid "MailChimp for WordPress"
+msgstr ""
+
+#. Name of the theme
+msgid "Impose"
+msgstr ""
+
+#. Description of the theme
+msgid "Responsive WordPress theme."
+msgstr ""
+
+#. URI of the theme
+msgid "https://themeforest.net/user/pixelwars/portfolio"
+msgstr ""
+
+#. Author of the theme
+msgid "Pixelwars"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://themeforest.net/user/pixelwars"
+msgstr ""
